@@ -1,0 +1,24 @@
+İlk eleman olan 7 ağacın kökü olur.
+5, 1, 8, 3, 6, 0, 9, 4, 2 elemanları sırayla ağaca eklenir:
+5, 7'nin soluna eklenir.
+1, 5'in soluna eklenir.
+8, 7'nin sağına eklenir.
+3, 5'in sol alt ağacına eklenir.
+6, 5'in sağ alt ağacına eklenir.
+0, 1'in soluna eklenir.
+9, 8'in sağına eklenir.
+4, 3'ün sağ alt ağacına eklenir.
+2, 1'in sağ alt ağacına eklenir.
+Son haldeki ağaç şu şekildedir:
+   
+   
+   
+   7
+           /     \
+          5       8
+         / \       \
+        1   6       9
+       / \         /
+      0   2       4
+           \
+            3
